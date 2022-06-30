@@ -28,7 +28,7 @@
     <div class="headline">
         <h2 style="letter-spacing: 15px;">você achou o melhor</h2>
         <h2 style="font-size:70px;">Agência de curos</h2>
-       <div class="img-headline">
+       
     <img style= "max-width: 50%" src="img/baner.jpg">
     <p> <b> Este site ainda esta em construçao aguarde mais novidades</b></p>
     <a href="#" class="contact-btn"> trabalhe conosco</a>
@@ -40,21 +40,20 @@
         <h2>nossos curos</h2>
         <div class="serviços">
             <div class="card"> 
-                <img src="img/pc.png">
+           
                 <div class="card text">
                 <h3>tenologia</h23>
                     <p><b>PRESENCIAL E DIGITAL</b></p>
                 </div>
                
          <div class="card">
-                <img src="img/intercambio-de-idiomas.png">
                 <div class="card text">
                  <H3>IDIOMAS</H3>
                 <p><b>PRESENCIAL</b></p>
             </div>
             
             <div class="card">
-                <img src="img/informatica.png">
+              
                 <div class="card texrt">
                 <h3>informatica</h4>
         <p><b>PRESENCIAL E DIGITAL</b></p>    
